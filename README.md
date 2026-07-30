@@ -126,16 +126,6 @@ Designed for
 
 ---
 
-# 🎥 Demo
-
-<p align="center">
-
-<img src="assets/demo.gif"/>
-
-</p>
-
----
-
 # 📸 Screenshots
 
 | Home | Browse |
