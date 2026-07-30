@@ -224,7 +224,6 @@ Anveshi
 │   ├── vite.config.js
 │   └── .env
 │
-├── assets
 │
 └── README.md
 ```
