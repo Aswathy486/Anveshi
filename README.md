@@ -140,15 +140,15 @@ Designed for
 
 | Home | Browse |
 |------|---------|
-| ![](assets/Home.jpeg) | ![](assets/BrowseReports.jpeg) |
+| ![](frontend/src/assets/Home.jpeg) | ![](frontend/src/assets/BrowseReports.jpeg) |
 
 | Report Details | Create Report |
 |----------------|---------------|
-| ![](assets/ReportDetails.jpeg) | ![](assets/CreateReport.jpeg) |
+| ![](frontend/src/assets/ReportDetails.jpeg) | ![](frontend/src/assets/CreateReport.jpeg) |
 
 | Edit Report |
 |-------------|
-| ![](assets/EditReport.jpeg) |
+| ![](frontend/src/assets/EditReport.jpeg) |
 
 ---
 
