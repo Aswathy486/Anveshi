@@ -1,6 +1,9 @@
 import { Link } from "react-router-dom";
 import { FaMapMarkerAlt, FaCalendarAlt } from "react-icons/fa";
 
+const API_URL =
+  import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+
 function ReportCard({ report }) {
   return (
     <div className="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition duration-300 hover:-translate-y-2">
@@ -8,7 +11,7 @@ function ReportCard({ report }) {
       <img
         src={
           report.image_url
-            ? `http://127.0.0.1:8000/${report.image_url}`
+            ? `${API_URL}/${report.image_url}`
             : "https://placehold.co/600x400?text=No+Image"
         }
         alt={report.title}
